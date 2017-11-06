@@ -10,15 +10,15 @@ h1{
   color: white;
   font-size: 18px;
 }
-h2 {
+.supporting h2 {
   font-size: 32px;
   text-align: center;
 }
-h3{
+ .supporting h3{
   font-size: 23px;
   text-align: center;
 }
-p{
+.supporting-item p{
   font-size:14px;
   text-align: center;
 }
@@ -34,7 +34,7 @@ font-weight: bold;
   background-color: dimgray;
   font-size: 11px;
   color: white;
-  text-align: left !important;
+  text-align: left;
 
   }
 div {
